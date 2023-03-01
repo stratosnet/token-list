@@ -1,0 +1,12 @@
+{
+  "name": "Stratos default token list with ERC20 tokens",
+  "logoURI": "https://raw.githubusercontent.com/stratosnet/token-lists/v1.0.0/logo.svg",
+  "keywords": ["stos", "defi", "bridge"],
+  "timestamp": "2023-03-01T13:29:19.287Z",
+  "tokens": [],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
