@@ -1,10 +1,10 @@
-# Bridge Token List
+# Stratos Token Lists (beta)
 
 Official supported token list on Stratos network. NOTE: Currently all address not stable and in testing mode
 
 ## Contributing
 
-To add a token to bridge-token-list:
+To add a token to token-lists:
 
 1. Install dependencies via `yarn install`. Note: you must be on Node.js 14.x or later to do this.
 2. Add your token's logo to `assets/`
